@@ -1,0 +1,19 @@
+.menu-link {
+    margin-right: 10px;
+    border: 1px solid black;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: black;
+}
+
+.menu-link-active {
+    margin-right: 10px;
+    border: 1px solid red;
+    padding: 5px;
+    font-size: 18px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: red;
+}
